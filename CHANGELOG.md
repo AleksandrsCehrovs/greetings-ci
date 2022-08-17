@@ -1,3 +1,12 @@
+## [0.7.1](https://github.com/AleksandrsCehrovs/greetings-ci/compare/v0.7.0...v0.7.1) (2022-08-17)
+
+
+### Bug Fixes
+
+* correcting token name ([b4f4f80](https://github.com/AleksandrsCehrovs/greetings-ci/commit/b4f4f80d16af2f714dd4148f6a9b53d50152402e))
+
+
+
 # [0.7.0](https://github.com/AleksandrsCehrovs/greetings-ci/compare/v0.6.0...v0.7.0) (2022-08-17)
 
 
