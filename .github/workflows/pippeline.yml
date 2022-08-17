@@ -63,8 +63,8 @@ jobs:
     steps:
     - name: Download candidate artifacts
       uses: actions/download-artifact@v3
-        with:
-          name: greetings-jar
+      with:
+        name: greetings-jar
     - name: Execute test
       shell: bash
       run: |
