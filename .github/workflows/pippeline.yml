@@ -9,9 +9,9 @@ name: Java CI with Gradle
 
 on:
   push:
-    branches: [ "main", "change_log" ]
+    branches: [ "artifact" ]
   pull_request:
-    branches: [ "main", "change_log" ]
+    branches: [ "artifact" ]
 
 permissions:
   contents: write
@@ -36,3 +36,8 @@ jobs:
       uses: gradle/gradle-build-action@v2.2.1
       with:
         arguments: build
+    - name: Upload Artifact
+      uses: actions/upload-artifact@v3
+      with:
+        name: greetings-jar
+        path: build/libs
