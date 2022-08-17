@@ -1,3 +1,12 @@
+# [0.7.0](https://github.com/AleksandrsCehrovs/greetings-ci/compare/v0.6.0...v0.7.0) (2022-08-17)
+
+
+### Features
+
+* Input values ([85a5837](https://github.com/AleksandrsCehrovs/greetings-ci/commit/85a5837d470e34c3ec6e3c7e90bd2ca2d0f068f4))
+
+
+
 # [0.6.0](https://github.com/AleksandrsCehrovs/greetings-ci/compare/v0.5.0...v0.6.0) (2022-08-17)
 
 
