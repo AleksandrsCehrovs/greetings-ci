@@ -1,18 +1,9 @@
-# [0.4.0](https://github.com/AleksandrsCehrovs/greetings-ci/compare/v0.3.0...v0.4.0) (2022-08-17)
+# [0.5.0](https://github.com/AleksandrsCehrovs/greetings-ci/compare/v0.2.0...v0.5.0) (2022-08-17)
 
 
 ### Features
 
-* version artifact ([8507bae](https://github.com/AleksandrsCehrovs/greetings-ci/commit/8507baea642ea77d072868ead1ac710dc4b10f3d))
-
-
-
-# [0.3.0](https://github.com/AleksandrsCehrovs/greetings-ci/compare/v0.2.0...v0.3.0) (2022-08-17)
-
-
-### Features
-
-* upload artifact ([6b610e9](https://github.com/AleksandrsCehrovs/greetings-ci/commit/6b610e98c1aefb6e626bae9bd809a722b1e21718))
+* adjusting pipeline to "main" branch ([062b6c5](https://github.com/AleksandrsCehrovs/greetings-ci/commit/062b6c5d87e41e060c088dc2c5bb07cf5ad374d0))
 
 
 
