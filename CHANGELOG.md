@@ -1,3 +1,12 @@
+## [0.7.3](https://github.com/AleksandrsCehrovs/greetings-ci/compare/v0.7.2...v0.7.3) (2022-08-18)
+
+
+### Reverts
+
+* Revert "try insert token directly" ([bce2914](https://github.com/AleksandrsCehrovs/greetings-ci/commit/bce291489a4a58ca2a09776cfe553253c83ed3bd))
+
+
+
 ## [0.7.2](https://github.com/AleksandrsCehrovs/greetings-ci/compare/v0.7.1...v0.7.2) (2022-08-17)
 
 
@@ -37,15 +46,6 @@
 ### Features
 
 * add testing to pipeline ([3365e27](https://github.com/AleksandrsCehrovs/greetings-ci/commit/3365e27b20efed10c89a86d4f33a385cb3756167))
-
-
-
-# [0.5.0](https://github.com/AleksandrsCehrovs/greetings-ci/compare/v0.2.0...v0.5.0) (2022-08-17)
-
-
-### Features
-
-* adjusting pipeline to "main" branch ([062b6c5](https://github.com/AleksandrsCehrovs/greetings-ci/commit/062b6c5d87e41e060c088dc2c5bb07cf5ad374d0))
 
 
 
