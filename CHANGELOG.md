@@ -1,3 +1,12 @@
+## [0.7.6](https://github.com/AleksandrsCehrovs/greetings-ci/compare/v0.7.5...v0.7.6) (2022-08-24)
+
+
+### Bug Fixes
+
+* blue - green ([0898315](https://github.com/AleksandrsCehrovs/greetings-ci/commit/0898315cd54cd2aa3da0e95794a6350f3aa4bbbb))
+
+
+
 ## [0.7.5](https://github.com/AleksandrsCehrovs/greetings-ci/compare/v0.7.4...v0.7.5) (2022-08-24)
 
 
@@ -31,15 +40,6 @@
 ### Bug Fixes
 
 * rollback changes ([df3ca22](https://github.com/AleksandrsCehrovs/greetings-ci/commit/df3ca22e5ba0fef9e778f22d54bd35ec216e1784))
-
-
-
-## [0.7.1](https://github.com/AleksandrsCehrovs/greetings-ci/compare/v0.7.0...v0.7.1) (2022-08-17)
-
-
-### Bug Fixes
-
-* correcting token name ([b4f4f80](https://github.com/AleksandrsCehrovs/greetings-ci/commit/b4f4f80d16af2f714dd4148f6a9b53d50152402e))
 
 
 
