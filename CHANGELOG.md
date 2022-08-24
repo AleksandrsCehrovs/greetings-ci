@@ -1,3 +1,12 @@
+## [0.7.5](https://github.com/AleksandrsCehrovs/greetings-ci/compare/v0.7.4...v0.7.5) (2022-08-24)
+
+
+### Bug Fixes
+
+* security bug ([060ff39](https://github.com/AleksandrsCehrovs/greetings-ci/commit/060ff39c1ec6e2579bc9f4d7954301d045cb9e67))
+
+
+
 ## [0.7.4](https://github.com/AleksandrsCehrovs/greetings-ci/compare/v0.7.3...v0.7.4) (2022-08-24)
 
 
@@ -31,15 +40,6 @@
 ### Bug Fixes
 
 * correcting token name ([b4f4f80](https://github.com/AleksandrsCehrovs/greetings-ci/commit/b4f4f80d16af2f714dd4148f6a9b53d50152402e))
-
-
-
-# [0.7.0](https://github.com/AleksandrsCehrovs/greetings-ci/compare/v0.6.0...v0.7.0) (2022-08-17)
-
-
-### Features
-
-* Input values ([85a5837](https://github.com/AleksandrsCehrovs/greetings-ci/commit/85a5837d470e34c3ec6e3c7e90bd2ca2d0f068f4))
 
 
 
