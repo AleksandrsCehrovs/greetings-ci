@@ -19,8 +19,10 @@ on:
       myValues:
         description: 'Input Values'
 
+
 permissions:
   contents: write
+
 
 jobs:
   build:
