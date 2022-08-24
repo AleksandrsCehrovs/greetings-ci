@@ -1,3 +1,12 @@
+## [0.8.1](https://github.com/AleksandrsCehrovs/greetings-ci/compare/v0.8.0...v0.8.1) (2022-08-24)
+
+
+### Bug Fixes
+
+* blue ([9d8e40f](https://github.com/AleksandrsCehrovs/greetings-ci/commit/9d8e40f7ff79d0b22cd7016fa9d3f1e556966781))
+
+
+
 # [0.8.0](https://github.com/AleksandrsCehrovs/greetings-ci/compare/v0.7.6...v0.8.0) (2022-08-24)
 
 
@@ -31,15 +40,6 @@
 ### Bug Fixes
 
 * extra enter ([fe2b2fa](https://github.com/AleksandrsCehrovs/greetings-ci/commit/fe2b2fa86129c15102552a5fb5bb857001f412d0))
-
-
-
-## [0.7.3](https://github.com/AleksandrsCehrovs/greetings-ci/compare/v0.7.2...v0.7.3) (2022-08-18)
-
-
-### Reverts
-
-* Revert "try insert token directly" ([bce2914](https://github.com/AleksandrsCehrovs/greetings-ci/commit/bce291489a4a58ca2a09776cfe553253c83ed3bd))
 
 
 
